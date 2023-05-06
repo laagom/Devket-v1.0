@@ -162,27 +162,25 @@
 
 ### API
 
-[[**REST api get방식에서 post방식으로]**](https://www.notion.so/22-11-17-Rest-Api-get-post-8d7ae73253ee4b7ca8adda1ba2bd236a)
+[[**REST api get방식에서 post방식으로]**](https://geminihoroscope.tistory.com/138)
 
-**[[APIview를 DestroyAPIView로 변경하여 시도]](https://www.notion.so/22-11-20-APIview-DestroyAPIView-c19cbfec72e542109ead0609df94f0f5)**
+**[[APIview를 DestroyAPIView로 변경하여 시도]](https://geminihoroscope.tistory.com/146)**
 
-**[[2종류 데이터를 받아오는 api, restful하게 변경 작업]](https://www.notion.so/22-11-29-2-api-restful-371ab80cc2624291be29ee4a5ae2d063)**
+**[[2종류 데이터를 받아오는 api, restful하게 변경 작업]](https://geminihoroscope.tistory.com/151)**
 
 ### Javascript
 
-**[[Javascript 요소 노드에 이벤트 주기]](https://www.notion.so/22-11-18-Javascript-7cfd973c316b4a78820c9e3e177676da)** 
-
-**[[Javascript 비동기 처리 시점 맞추기]](https://www.notion.so/22-11-20-Javascript-4ab27f6785f3482e81de5f2049a9d374)**
+**[[Javascript 비동기 처리 시점 맞추기]](https://geminihoroscope.tistory.com/147)**
 
 ### Bulk
 
-**[[APIView bulk update 구현]](https://www.notion.so/22-11-23-APIView-bulk-update-4a3ca6f22086494c8efd92da36f73e86)**
+**[[APIView bulk update 구현]](https://geminihoroscope.tistory.com/148)**
 
-**[[함수의 사전에 처리되는 중복 작업 decorator 처리]](https://www.notion.so/22-11-26-decorator-5ad3263c37ec487bb84627aac6b49533)**
+**[[함수의 사전에 처리되는 중복 작업 decorator 처리]](https://geminihoroscope.tistory.com/152)**
 
 ### Signup
 
-**[[Signup-AbstractBaseUser]](https://www.notion.so/22-11-24-Signup-AbstractBaseUser-b142da019ef74e98896a20ca8a3b7f06)**
+**[[Signup-AbstractBaseUser]](https://geminihoroscope.tistory.com/149)**
 
 ### Iamport
 
@@ -190,17 +188,18 @@
 
 ### Tag
 
-**[[ManytoMany 관계를 가진 두 모델 Bulk Create 작업]](https://www.notion.so/22-11-26-ManytoMany-Bulk-Create-943fe5d9479c4b1f88534df0fdd37dbd)**
+**[[ManytoMany 관계를 가진 두 모델 Bulk Create 작업]](https://geminihoroscope.tistory.com/153)**
 
-**[[Tag가 포함된 Site serialize (many-to-many)]](https://www.notion.so/22-11-27-Tag-Site-serialize-many-to-many-6ea923f587c341b59cf5a12bf4587468)**
+**[[Tag가 포함된 Site serialize (many-to-many)]](https://geminihoroscope.tistory.com/154)**
 
 ### AWS
-
-[[**Project: deployment issue - S3 CORS**]](https://jeha00.github.io/post/project/16_deployment_cors/)
 
 [[1차 배포 일지]](https://www.notion.so/22-11-30-1-ff33b1564ccc4e27b2460b88c7a45213)
 
 [[2차 배포일지]](https://www.notion.so/22-12-05-2-dce5a5a061f6431aa2705cbdf0bba7ef)
+
+### Github
+[commit 시점이 뒤에 위치한 Branch](https://geminihoroscope.tistory.com/135)
 
 
 <br>
